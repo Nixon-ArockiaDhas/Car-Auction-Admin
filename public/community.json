@@ -1,0 +1,2786 @@
+[
+    {
+        "id": 1,
+        "s_no": 1,
+        "seller_name": "Voolia",
+        "states": 20,
+        "district": 49,
+        "overall_location": 52,
+        "state_names": [
+            {
+                "state_id": 0,
+                "name": "Andhra Pradesh",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Visakhapatnam",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Visakhapatnam City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Anakapalle"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Bheemunipatnam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Chodavaram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Pendurthi"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Guntur",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Guntur City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Mangalagiri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Tadepalli"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Tenali"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Sattenapalle"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "East Godavari",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Kakinada City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Rajahmundry"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Amalapuram"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Peddapuram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Mandapam"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 1,
+                "name": "Delhi",
+                "district_count": 2,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "North Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Alipur"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Narela"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "South Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Mehrauli"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 2,
+                "name": "Maharashtra",
+                "district_count": 1,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Mumbai Suburban",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Bandra"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Andheri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Kurla"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Ghatkopar"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Chembur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 3,
+                "name": "Tamil Nadu",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Chennai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Chennai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Tondiarpet"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Royapuram"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Coimbatore",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Coimbatore City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Pollachi"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Mettupalayam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Valparai"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "Madurai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Madurai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Thirumangalam"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Usilampatti"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Melur"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Vadipatti"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "s_no": 2,
+        "seller_name": "Kaymbo",
+        "states": 14,
+        "district": 12,
+        "overall_location": 54,
+        "state_names": [
+            {
+                "state_id": 0,
+                "name": "Andhra Pradesh",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Visakhapatnam",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Visakhapatnam City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Anakapalle"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Bheemunipatnam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Chodavaram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Pendurthi"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Guntur",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Guntur City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Mangalagiri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Tadepalli"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Tenali"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Sattenapalle"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "East Godavari",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Kakinada City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Rajahmundry"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Amalapuram"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Peddapuram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Mandapam"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 1,
+                "name": "Delhi",
+                "district_count": 2,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "North Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Alipur"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Narela"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "South Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Mehrauli"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 2,
+                "name": "Maharashtra",
+                "district_count": 1,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Mumbai Suburban",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Bandra"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Andheri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Kurla"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Ghatkopar"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Chembur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 3,
+                "name": "Tamil Nadu",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Chennai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Chennai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Tondiarpet"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Royapuram"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Coimbatore",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Coimbatore City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Pollachi"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Mettupalayam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Valparai"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "Madurai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Madurai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Thirumangalam"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Usilampatti"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Melur"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Vadipatti"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "s_no": 3,
+        "seller_name": "Chatterbridge",
+        "states": 14,
+        "district": 30,
+        "overall_location": 29,
+        "state_names": [
+            {
+                "state_id": 0,
+                "name": "Andhra Pradesh",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Visakhapatnam",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Visakhapatnam City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Anakapalle"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Bheemunipatnam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Chodavaram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Pendurthi"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Guntur",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Guntur City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Mangalagiri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Tadepalli"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Tenali"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Sattenapalle"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "East Godavari",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Kakinada City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Rajahmundry"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Amalapuram"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Peddapuram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Mandapam"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 1,
+                "name": "Delhi",
+                "district_count": 2,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "North Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Alipur"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Narela"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "South Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Mehrauli"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 2,
+                "name": "Maharashtra",
+                "district_count": 1,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Mumbai Suburban",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Bandra"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Andheri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Kurla"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Ghatkopar"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Chembur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 3,
+                "name": "Tamil Nadu",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Chennai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Chennai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Tondiarpet"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Royapuram"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Coimbatore",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Coimbatore City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Pollachi"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Mettupalayam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Valparai"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "Madurai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Madurai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Thirumangalam"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Usilampatti"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Melur"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Vadipatti"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "s_no": 4,
+        "seller_name": "Miboo",
+        "states": 12,
+        "district": 11,
+        "overall_location": 51,
+        "state_names": [
+            {
+                "state_id": 0,
+                "name": "Andhra Pradesh",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Visakhapatnam",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Visakhapatnam City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Anakapalle"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Bheemunipatnam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Chodavaram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Pendurthi"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Guntur",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Guntur City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Mangalagiri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Tadepalli"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Tenali"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Sattenapalle"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "East Godavari",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Kakinada City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Rajahmundry"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Amalapuram"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Peddapuram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Mandapam"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 1,
+                "name": "Delhi",
+                "district_count": 2,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "North Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Alipur"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Narela"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "South Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Mehrauli"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 2,
+                "name": "Maharashtra",
+                "district_count": 1,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Mumbai Suburban",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Bandra"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Andheri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Kurla"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Ghatkopar"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Chembur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 3,
+                "name": "Tamil Nadu",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Chennai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Chennai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Tondiarpet"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Royapuram"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Coimbatore",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Coimbatore City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Pollachi"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Mettupalayam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Valparai"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "Madurai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Madurai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Thirumangalam"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Usilampatti"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Melur"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Vadipatti"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "s_no": 5,
+        "seller_name": "Livefish",
+        "states": 12,
+        "district": 47,
+        "overall_location": 11,
+        "state_names": [
+            {
+                "state_id": 0,
+                "name": "Andhra Pradesh",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Visakhapatnam",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Visakhapatnam City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Anakapalle"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Bheemunipatnam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Chodavaram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Pendurthi"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Guntur",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Guntur City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Mangalagiri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Tadepalli"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Tenali"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Sattenapalle"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "East Godavari",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Kakinada City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Rajahmundry"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Amalapuram"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Peddapuram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Mandapam"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 1,
+                "name": "Delhi",
+                "district_count": 2,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "North Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Alipur"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Narela"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "South Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Mehrauli"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 2,
+                "name": "Maharashtra",
+                "district_count": 1,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Mumbai Suburban",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Bandra"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Andheri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Kurla"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Ghatkopar"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Chembur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 3,
+                "name": "Tamil Nadu",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Chennai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Chennai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Tondiarpet"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Royapuram"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Coimbatore",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Coimbatore City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Pollachi"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Mettupalayam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Valparai"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "Madurai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Madurai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Thirumangalam"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Usilampatti"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Melur"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Vadipatti"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "s_no": 6,
+        "seller_name": "Eimbee",
+        "states": 13,
+        "district": 16,
+        "overall_location": 52,
+        "state_names": [
+            {
+                "state_id": 0,
+                "name": "Andhra Pradesh",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Visakhapatnam",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Visakhapatnam City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Anakapalle"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Bheemunipatnam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Chodavaram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Pendurthi"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Guntur",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Guntur City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Mangalagiri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Tadepalli"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Tenali"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Sattenapalle"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "East Godavari",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Kakinada City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Rajahmundry"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Amalapuram"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Peddapuram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Mandapam"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 1,
+                "name": "Delhi",
+                "district_count": 2,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "North Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Alipur"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Narela"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "South Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Mehrauli"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 2,
+                "name": "Maharashtra",
+                "district_count": 1,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Mumbai Suburban",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Bandra"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Andheri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Kurla"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Ghatkopar"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Chembur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 3,
+                "name": "Tamil Nadu",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Chennai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Chennai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Tondiarpet"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Royapuram"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Coimbatore",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Coimbatore City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Pollachi"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Mettupalayam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Valparai"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "Madurai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Madurai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Thirumangalam"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Usilampatti"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Melur"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Vadipatti"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "s_no": 7,
+        "seller_name": "Nlounge",
+        "states": 16,
+        "district": 16,
+        "overall_location": 29,
+        "state_names": [
+            {
+                "state_id": 0,
+                "name": "Andhra Pradesh",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Visakhapatnam",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Visakhapatnam City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Anakapalle"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Bheemunipatnam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Chodavaram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Pendurthi"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Guntur",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Guntur City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Mangalagiri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Tadepalli"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Tenali"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Sattenapalle"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "East Godavari",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Kakinada City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Rajahmundry"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Amalapuram"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Peddapuram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Mandapam"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 1,
+                "name": "Delhi",
+                "district_count": 2,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "North Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Alipur"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Narela"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "South Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Mehrauli"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 2,
+                "name": "Maharashtra",
+                "district_count": 1,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Mumbai Suburban",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Bandra"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Andheri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Kurla"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Ghatkopar"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Chembur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 3,
+                "name": "Tamil Nadu",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Chennai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Chennai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Tondiarpet"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Royapuram"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Coimbatore",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Coimbatore City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Pollachi"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Mettupalayam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Valparai"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "Madurai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Madurai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Thirumangalam"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Usilampatti"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Melur"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Vadipatti"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "s_no": 8,
+        "seller_name": "Flashset",
+        "states": 2,
+        "district": 24,
+        "overall_location": 55,
+        "state_names": [
+            {
+                "state_id": 0,
+                "name": "Andhra Pradesh",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Visakhapatnam",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Visakhapatnam City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Anakapalle"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Bheemunipatnam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Chodavaram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Pendurthi"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Guntur",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Guntur City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Mangalagiri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Tadepalli"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Tenali"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Sattenapalle"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "East Godavari",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Kakinada City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Rajahmundry"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Amalapuram"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Peddapuram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Mandapam"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 1,
+                "name": "Delhi",
+                "district_count": 2,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "North Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Alipur"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Narela"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "South Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Mehrauli"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 2,
+                "name": "Maharashtra",
+                "district_count": 1,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Mumbai Suburban",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Bandra"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Andheri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Kurla"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Ghatkopar"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Chembur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 3,
+                "name": "Tamil Nadu",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Chennai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Chennai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Tondiarpet"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Royapuram"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Coimbatore",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Coimbatore City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Pollachi"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Mettupalayam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Valparai"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "Madurai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Madurai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Thirumangalam"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Usilampatti"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Melur"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Vadipatti"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "s_no": 9,
+        "seller_name": "Ainyx",
+        "states": 24,
+        "district": 26,
+        "overall_location": 42,
+        "state_names": [
+            {
+                "state_id": 0,
+                "name": "Andhra Pradesh",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Visakhapatnam",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Visakhapatnam City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Anakapalle"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Bheemunipatnam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Chodavaram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Pendurthi"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Guntur",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Guntur City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Mangalagiri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Tadepalli"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Tenali"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Sattenapalle"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "East Godavari",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Kakinada City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Rajahmundry"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Amalapuram"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Peddapuram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Mandapam"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 1,
+                "name": "Delhi",
+                "district_count": 2,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "North Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Alipur"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Narela"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "South Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Mehrauli"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 2,
+                "name": "Maharashtra",
+                "district_count": 1,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Mumbai Suburban",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Bandra"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Andheri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Kurla"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Ghatkopar"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Chembur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 3,
+                "name": "Tamil Nadu",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Chennai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Chennai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Tondiarpet"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Royapuram"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Coimbatore",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Coimbatore City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Pollachi"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Mettupalayam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Valparai"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "Madurai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Madurai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Thirumangalam"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Usilampatti"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Melur"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Vadipatti"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "s_no": 10,
+        "seller_name": "Quinu",
+        "states": 4,
+        "district": 26,
+        "overall_location": 36,
+        "state_names": [
+            {
+                "state_id": 0,
+                "name": "Andhra Pradesh",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Visakhapatnam",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Visakhapatnam City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Anakapalle"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Bheemunipatnam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Chodavaram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Pendurthi"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Guntur",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Guntur City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Mangalagiri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Tadepalli"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Tenali"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Sattenapalle"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "East Godavari",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Kakinada City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Rajahmundry"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Amalapuram"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Peddapuram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Mandapam"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 1,
+                "name": "Delhi",
+                "district_count": 2,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "North Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Alipur"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Narela"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "South Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Mehrauli"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 2,
+                "name": "Maharashtra",
+                "district_count": 1,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Mumbai Suburban",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Bandra"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Andheri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Kurla"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Ghatkopar"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Chembur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 3,
+                "name": "Tamil Nadu",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Chennai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Chennai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Tondiarpet"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Royapuram"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Coimbatore",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Coimbatore City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Pollachi"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Mettupalayam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Valparai"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "Madurai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Madurai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Thirumangalam"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Usilampatti"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Melur"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Vadipatti"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "s_no": 11,
+        "seller_name": "Yozio",
+        "states": 3,
+        "district": 25,
+        "overall_location": 2,
+        "state_names": [
+            {
+                "state_id": 0,
+                "name": "Andhra Pradesh",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Visakhapatnam",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Visakhapatnam City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Anakapalle"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Bheemunipatnam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Chodavaram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Pendurthi"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Guntur",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Guntur City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Mangalagiri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Tadepalli"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Tenali"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Sattenapalle"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "East Godavari",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Kakinada City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Rajahmundry"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Amalapuram"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Peddapuram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Mandapam"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 1,
+                "name": "Delhi",
+                "district_count": 2,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "North Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Alipur"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Narela"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "South Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Mehrauli"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 2,
+                "name": "Maharashtra",
+                "district_count": 1,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Mumbai Suburban",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Bandra"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Andheri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Kurla"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Ghatkopar"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Chembur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 3,
+                "name": "Tamil Nadu",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Chennai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Chennai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Tondiarpet"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Royapuram"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Coimbatore",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Coimbatore City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Pollachi"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Mettupalayam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Valparai"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "Madurai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Madurai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Thirumangalam"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Usilampatti"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Melur"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Vadipatti"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "s_no": 12,
+        "seller_name": "Thoughtbeat",
+        "states": 16,
+        "district": 41,
+        "overall_location": 42,
+        "state_names": [
+            {
+                "state_id": 0,
+                "name": "Andhra Pradesh",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Visakhapatnam",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Visakhapatnam City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Anakapalle"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Bheemunipatnam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Chodavaram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Pendurthi"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Guntur",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Guntur City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Mangalagiri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Tadepalli"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Tenali"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Sattenapalle"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "East Godavari",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Kakinada City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Rajahmundry"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Amalapuram"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Peddapuram"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Mandapam"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 1,
+                "name": "Delhi",
+                "district_count": 2,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "North Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Alipur"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Narela"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "South Delhi",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Mehrauli"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 2,
+                "name": "Maharashtra",
+                "district_count": 1,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Mumbai Suburban",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Bandra"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Andheri"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Kurla"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Ghatkopar"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Chembur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "state_id": 3,
+                "name": "Tamil Nadu",
+                "district_count": 3,
+                "district_names": [
+                    {
+                        "district_id": 0,
+                        "name": "Chennai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Chennai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Tondiarpet"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Royapuram"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 1,
+                        "name": "Coimbatore",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Coimbatore City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Pollachi"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Mettupalayam"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Valparai"
+                            }
+                        ]
+                    },
+                    {
+                        "district_id": 2,
+                        "name": "Madurai",
+                        "locations": [
+                            {
+                                "location_id": 0,
+                                "location_name": "Madurai City"
+                            },
+                            {
+                                "location_id": 1,
+                                "location_name": "Thirumangalam"
+                            },
+                            {
+                                "location_id": 2,
+                                "location_name": "Usilampatti"
+                            },
+                            {
+                                "location_id": 3,
+                                "location_name": "Melur"
+                            },
+                            {
+                                "location_id": 4,
+                                "location_name": "Vadipatti"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
