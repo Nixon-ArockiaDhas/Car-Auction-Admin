@@ -1,0 +1,104 @@
+.background{
+    background-image: url('../../../public/images/new_bg.svg');
+    height: max-content;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 2rem;
+}
+
+.applicationName{
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #fff;
+    margin: 0;
+    margin-left: 3rem !important;
+}
+.logo{
+    height: 2rem;
+}
+/* .loginimage{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 50%;
+} */
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+}
+.loginForm{
+    background-color: white;
+    background: white; 
+    box-shadow: 0px 0px 24px 8px rgba(17, 34, 51, 0.80);
+    margin-top: 10%;
+    border-radius: 8px; 
+    border: 0.50px #E9E9E9 solid;
+    height: max-content;
+    width: 25% !important;
+    padding-bottom: 3rem;
+    text-align: center;
+}
+.forgotPassword{
+    color: var(--primary-color);
+    font-size: 0.9rem;
+    text-decoration: none;
+}
+.checkbox{
+    color: var(--text-subtle);
+}
+.loginButton{
+    margin-top: 2rem !important;
+    background-color: var(--primary-color) !important;
+    font-weight: 600 !important;
+}
+.loginHeading{
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--text-dark);
+}
+.loginHelptext{
+    color: var(--text-subtle);
+    font-size: 01rem;
+}
+.circleProgress{
+    height: 1.6rem !important;
+    width: 1.6rem !important;
+    color: white !important;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1536px) {
+    .loginForm{
+        margin-top: 3rem;
+        width: 30% !important;
+    }
+    .applicationName{
+        margin-left: 0 !important;
+    }
+
+    .form{
+        height: 100dvh;
+    }
+    
+}
+
+@media screen and (min-width: 1536px) and (max-width: 1536px) {
+    .applicationName {
+        margin-left: 3rem !important;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .loginForm{
+        margin-top: 3rem;
+        width: 100% !important;
+    }
+    .loginimage{
+        display: none;
+    }
+    .applicationName{
+        margin-left: 0 !important;
+    }
+    
+}

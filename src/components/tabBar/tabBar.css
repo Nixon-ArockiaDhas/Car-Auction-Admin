@@ -1,0 +1,17 @@
+.MuiTab-root {
+    color: var(--text-subtle) !important;
+    text-transform: unset !important;
+}
+
+.MuiTab-root.Mui-selected {
+    color: var(--secondray-color) !important;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 59%, rgba(251, 72, 72, 0.20) 100%);
+    font-weight: 600;
+}
+
+.MuiTabs-indicator{
+    background-color: var(--primary-color) !important;
+}
+.tabDetails{
+    padding: 1.25rem 0 !important;
+}

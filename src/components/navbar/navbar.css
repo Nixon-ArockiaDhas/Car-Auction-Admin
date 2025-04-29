@@ -1,0 +1,14 @@
+.navbar{
+    background-color: #112233 !important;
+}
+.logoutImage{
+    margin-right: 0.5rem;
+}
+.navbarButon{
+    padding: 0 !important;
+}
+.navbarContainer{
+    display: flex !important;
+    justify-content: flex-end;
+    column-gap: 1rem !important;
+}

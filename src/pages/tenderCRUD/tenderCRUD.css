@@ -1,0 +1,67 @@
+.uploadButton{
+    padding: 0.5rem 1rem !important;
+    height: max-content;
+    text-transform: unset !important;
+    background: #F8FCFF; border-radius: 3px;
+    overflow: hidden; 
+    border: 1px #3498DB dashed !important;
+}
+.dividerText{
+    color: var(--text-subtle);
+    margin: 0 1rem;
+}
+.formbg{
+    background: #EDF2F7; 
+    border-radius: 0.5rem !important;
+    padding: 0.75rem !important;
+    padding-bottom: 0.1rem !important;
+}
+.forms{
+    background-color: white;
+    padding: 1rem  ;
+    margin-bottom: 1rem;
+    border-radius: 0.5rem !important;
+
+}
+.formHeading{
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: var(--text-dark);
+    margin: 0 0 0.5rem 0 !important;
+}
+.formHeading1{
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text-dark);
+}
+.topHeading{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.buttonDiv{
+    padding-top: 1rem;
+    display: flex;
+    column-gap: 2rem;
+    margin: 2rem 0;
+    justify-content: center;
+}
+.discardButton{
+    background: white; 
+    border-radius: 8px; 
+    border: 1px #778490 solid !important;
+    text-transform: unset !important;
+    color: var(--text-subtle) !important ;
+    font-weight: 600 !important;
+    font-size: 1.2rem !important;
+    padding: 0.5rem 1.5rem !important;
+    border-radius: 0.5rem !important;
+}
+.createButton{
+    text-transform: unset !important;
+    background-color: var(--primary-color) !important;
+    font-weight: 600 !important;
+    font-size: 1.2rem !important;
+    border-radius: 0.5rem !important;
+
+}

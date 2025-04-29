@@ -1,0 +1,11 @@
+.profileContainer{
+    margin: 1.5rem 0 3rem 0;
+}
+
+.profilePageButton {
+    text-align: center;
+    margin: 10rem 0 2rem 0;
+    display: flex;
+    column-gap: 2rem;
+    justify-content: center;
+}

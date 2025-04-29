@@ -1,0 +1,23 @@
+.userDetailDiv{
+    background-color: white;
+    padding: 1.25rem;
+    border-radius: 0.5rem;
+}
+.userValue{
+    color: var(--text-dark) !important;
+}
+.userKey{
+    color: var(--text-subtle);
+    font-weight: 500;
+    margin: 0;
+}
+
+.tabConatiner{
+    padding: 0.5rem !important;
+    background-color: var(--page-background);
+    border-radius: 0.5rem;
+}
+.detailsPageButton{
+    text-align: center;
+    margin: 10rem 0 2rem 0;
+}

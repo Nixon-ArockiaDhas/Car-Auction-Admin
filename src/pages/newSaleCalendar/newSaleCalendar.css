@@ -1,0 +1,23 @@
+.saleCalendarUpload{
+    padding: 0.5rem 1rem !important;
+    height: 3.5rem;
+    width: 100%;
+    text-transform: unset !important;
+    background: #F8FCFF; border-radius: 3px;
+    overflow: hidden; 
+    border: 1px #3498DB dashed !important;
+}
+.newSaleCalendarBody{
+    height: calc(100vh - 10rem) !important;
+    position: relative;
+}
+.saleCalendarButtonDiv{
+    display: flex;
+    column-gap: 2rem;
+    margin: 2rem 0;
+    position: absolute;
+    bottom:1rem;
+    left: 10%;
+    right: 10%;
+    justify-content: center;
+}

@@ -1,0 +1,81 @@
+.sidebar{
+    overflow: 'auto';
+    padding: 2rem 1rem !important;
+    background-color: #112233;
+    height: 100vh;
+    position:fixed;
+    width: 13rem;
+}
+.sidebarTitle{
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.sideBarLogo{
+    height: 2rem;
+}
+
+.sidebarText{
+    color: var(--text-accent); 
+    font-size: 1rem;
+    margin: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.active-text {
+    color: white; 
+    font-weight: 500;
+  }
+  .sidebarLink{
+    padding: 1rem !important;
+  }
+  
+.active-link {
+    background-color: #FB4848 !important; 
+    color: white; 
+    box-shadow: 0px 4px 12px #100000;
+    border-radius: 0.5rem !important; 
+    padding: 0.75rem 4rem 0.75rem 1rem !important;
+}
+.active-link::after {
+    content: url(../../../public/images/icons/indicator.svg);
+    position: absolute;
+    right: 0.2rem;
+    top: 25%;
+}
+  
+.active-link:hover {
+    background-color: #1976d2; 
+  }
+.sidebarIcon{
+    min-width: 0 !important;
+    width: 2rem !important;
+    margin-right: 0.5rem !important;
+}
+.userImage{
+    height: 4rem !important;
+    width: 4rem !important;
+    background-color: #A7AAB1 !important;
+    border-radius: 50%;
+    font-size: 1.3rem !important;
+    font-weight: 500 !important;
+}
+.userinfo{
+    display: flex;
+    column-gap: 1rem;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+.userName{
+    color: white;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem !important;
+    margin: 0;
+}
+.userRole{
+    color: var(--text-accent);
+    font-size: 0.9rem;
+    font-weight:500 ;
+    margin: 0;
+}

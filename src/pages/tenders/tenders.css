@@ -1,0 +1,41 @@
+.contentContainer{
+   padding: 0 1rem !important;
+}
+.contentBody{
+    background-color: white ;
+    border-radius: 0.5rem;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    padding: 1.2rem 1.5rem 1.5rem 1.5rem;
+    margin-bottom: 2.5rem;
+}
+.heading{
+    color: var(--text-dark);
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0 0 0.7rem 0;
+    word-wrap: normal;
+
+}
+.subText{
+    color: var(--text-subtle);
+    font-size: 0.9rem;
+    margin: 0;
+}
+.topContent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.newTenderButton{
+    background-color: var(--primary-color) !important;
+    padding: 0.5rem 1rem !important;
+    height: max-content;
+    text-transform: unset !important;
+}
+.divider{
+    border: 1px dashed var(--text-accent) !important;
+
+}
+.tenderGrid{
+    margin: 1rem 0;
+}

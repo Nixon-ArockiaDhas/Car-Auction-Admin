@@ -1,0 +1,9 @@
+.footer{
+    text-align: center;
+    color: var(--text-accent);
+    font-size: 0.8rem;
+    
+}
+.footerText{
+    margin-top: 0;
+}

@@ -1,0 +1,9 @@
+.formUpload{
+    width: 100% !important;
+    height: rem;
+}
+.uloadGrid{
+    display: flex  !important;
+    justify-items: center !important;
+    align-items: center !important;
+}

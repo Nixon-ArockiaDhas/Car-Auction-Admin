@@ -1,0 +1,146 @@
+.tenderStatus{
+    font-size: 1rem !important; 
+    font-weight: 600 !important;
+    margin-left: 1rem;
+    padding: 0.45rem 1rem;
+    border-radius: 1rem !important;
+}
+
+.tenderStatus {
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .tenderStatus.live {
+    background-color: #FFEBEB; 
+    color: var(--primary-color);
+  }
+  
+  .tenderStatus.upcoming {
+    background-color: #FFF1DA; 
+    color: #F39C12;
+  }
+  
+  .tenderStatus.cancelled {
+    background-color: #ffefee; 
+    color:#e74c3c;
+  }
+  
+  .tenderStatus.finished {
+    background-color: #e3ffee; 
+    color: #2ecc71;
+  }
+  
+.donwloadButton{
+    background-color: #27AE60 !important;
+    padding: 0.25rem 1rem !important;
+    height: max-content;
+    text-transform: unset !important;
+}
+.editButton{
+    background-color: #2A85F1 !important;
+    padding: 0.25rem 1rem !important;
+    height: max-content;
+    text-transform: unset !important;
+}
+.deleteButton{
+    background: white !important;
+    border: 1px #FB4848 solid !important; 
+    color: #FB4848 !important;
+    padding: 0.25rem 1rem !important;
+    height: max-content;
+    text-transform: unset !important;
+}
+
+.buttonIcon{
+    margin-right: 0.5rem;
+}
+.bankLogo{
+    width: 2.75rem;
+    height: 2.75rem;
+    background-color: #EAEFF5;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
+.headingDiv{
+    display: flex;
+    align-items: center;
+    column-gap: 1rem;
+}
+.details{
+    display: flex;
+    align-items: center;
+    column-gap: 2rem !important;
+    padding: 1rem;
+    padding-left: 0 !important;
+}
+.subHeading{
+    color: var(--text-subtle);
+    font-size: 0.9rem; 
+    font-weight: 500; 
+    line-height: 19.60px; 
+}
+.subText1{
+    color: var(--text-dark); 
+    font-size: 1rem; 
+    font-weight: 600; 
+    margin: 0;
+}
+.cardContainer{
+    background: #EDF2F7; 
+    border-radius: 0.5rem;
+    padding: 0.5rem !important;
+    margin-top: 1rem;
+}
+.card{
+    width: 100% !important;
+    box-shadow: none !important;
+    margin-bottom: 0.5rem;
+    border-radius: 0.5rem !important;
+}
+.card:last-child{
+    margin-bottom: 0 !important;
+}
+.carImage{
+    width: 3.75rem;
+    height: 3.75rem;
+    border-radius: 0.5rem;
+}
+.imageDiv{
+    display: flex;
+    column-gap: 1rem;
+    align-items: center;
+}
+.carName{
+    color: var(--text-body); 
+    font-size: 1.1rem; 
+    font-weight: 500;
+}
+.detailsHeading{
+    color: var(--text-subtle);
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+.detailsSubText{
+    color: var(--text-body); 
+    font-size: 1rem; 
+    font-weight: 500;
+    margin: 0;
+}
+.cardView{
+    background-color: var(--text-dark) !important;
+    color: white !important;
+    text-transform: unset !important;
+}
+.viewButtonIcon{
+    margin-right: 0.5rem !important;
+    filter: brightness(0) invert(1);
+}
+.detailsButtons{
+    display: flex;
+    column-gap: 1rem;
+}
+.detailsHeading{
+    margin-top: 0 !important;
+}
